@@ -1,0 +1,20 @@
+{
+  "name": "jest-next-dynamic-ts",
+  "version": "0.0.1",
+  "description": "Jest & Next.js - Dynamic import with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidYang2149/jest-next-dynamic-ts.git"
+  },
+  "keywords": [],
+  "author": "Davidyang2149",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidYang2149/jest-next-dynamic-ts/issues"
+  },
+  "homepage": "https://github.com/DavidYang2149/jest-next-dynamic-ts#readme"
+}
