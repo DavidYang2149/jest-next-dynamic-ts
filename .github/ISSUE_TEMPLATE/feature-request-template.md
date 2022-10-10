@@ -7,9 +7,6 @@ assignees:
 
 ---
 
-# 제목
-## 요구 사항
-- [ ] 내용
-
-## 작업 내역
--
+# title
+## Content
+- [ ] typing...
