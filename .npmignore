@@ -1,0 +1,4 @@
+.github/
+test/
+.babelrc.js
+index.test.js
