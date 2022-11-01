@@ -1,4 +1,25 @@
-.github/
-test/
-.babelrc.js
+# OSX
+.DS_Store
+
+# IDE
+.idea
+
+# npm
+node_modules
+package-lock.json
+
+# jest
+__snapshots__
+coverage
+test
 index.test.js
+
+# dev
+.babelrc.js
+
+#doc
+CONTRIBUTING.md
+docs
+
+#other
+.github
