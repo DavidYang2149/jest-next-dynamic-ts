@@ -1,6 +1,6 @@
 {
   "name": "jest-next-dynamic-ts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Jest & Next.js - Dynamic import with TypeScript",
   "main": "index.js",
   "types": "index.d.ts",
