@@ -22,7 +22,12 @@
     "type": "git",
     "url": "git+https://github.com/DavidYang2149/jest-next-dynamic-ts.git"
   },
-  "keywords": [],
+  "keywords": [
+    "jest-next-dynamic-ts",
+    "dynamic import",
+    "jest",
+    "typescript"
+  ],
   "author": "Davidyang2149",
   "license": "MIT",
   "bugs": {
