@@ -14,7 +14,7 @@ updates:
       time: "09:00"
     target-branch: "main"
     allow:
-      - dependency-type: "production"
+      - dependency-type: "development"
     commit-message:
       # Prefix all commit messages with "npm"
       prefix: "npm"
