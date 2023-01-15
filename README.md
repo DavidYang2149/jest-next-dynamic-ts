@@ -4,7 +4,16 @@ Inspired by [jest-next-dynamic](https://github.com/FormidableLabs/jest-next-dyna
 
 Added TypeScript based on jest-next-dynamic.
 
-# Usage
+GitHub: [jest-next-dynamic-ts](https://github.com/DavidYang2149/jest-next-dynamic-ts)  
+npm: [jest-next-dynamic-ts](https://www.npmjs.com/package/jest-next-dynamic-ts)  
+
+## 📚 Install dependencies
+
+```sh
+npm install -D jest-next-dynamic-ts
+```
+
+## 🧪 Usage
 
 ```js
 // This will mock `next/dynamic`, so make sure to import it before any of your
